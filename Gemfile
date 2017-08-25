@@ -10,6 +10,7 @@ gem "sinatra-flash"
 
 group :test, :development do
   gem "pry"
+  gem "faker"
 end
 
 group :test do
